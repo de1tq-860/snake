@@ -4,7 +4,7 @@
  * It should be https://raw.githubusercontent.com/YOUR_USERNAME/REPOSITORY_NAME/BRANCH/ 
  * Note: Your repository needs to be public, which it should be anyway.
  */
-const baseUrl = 'https://raw.githubusercontent.com/skagenmacka/snake/main/';
+const baseUrl = 'https://raw.githubusercontent.com/de1tq-860/snake/main/';
 
 /* Helper functions */
 function get(url, cb) {
