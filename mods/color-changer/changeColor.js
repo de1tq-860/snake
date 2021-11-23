@@ -4,8 +4,8 @@
 var Mod = () => {
     colors.walls =      '#000000';
     colors.shadows =    '#000000';
-    colors.lightTiles = '#353536';
-    colors.darkTiles =  '#2b2b2b';
+    colors.lightTiles = '#292929';
+    colors.darkTiles =  '#1c1c1c';
     colors.bar =        '#000000';
 }
 
